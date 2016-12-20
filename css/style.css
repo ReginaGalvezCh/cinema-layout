@@ -1,0 +1,45 @@
+.izquierdo{
+	float:right;
+}
+
+.bighero{
+	background-image: url(../img/banner.jpg);
+	height: 700px;
+	width: 100%;
+	 background-repeat: no-repeat;
+}
+.naranjo{
+background-color: #D7A829;
+height: 300px;
+}
+.primero{
+	height: 250px;
+	width:  180px;
+	float:left;
+	margin: 5px;
+	margin-top: 30px;
+}
+.espacio{
+height: 400px;
+width: 100%;
+}
+.ultimo{
+height: 400px;
+width: 100%;
+
+
+}
+.imgultimo{
+	height: 250px;
+	width:  250px;
+	float:left;
+	margin: 5px;
+	margin-top: 30px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.gris{
+background-color: #F0F0F0;
+height: 200px;
+width: 100%;
+}
